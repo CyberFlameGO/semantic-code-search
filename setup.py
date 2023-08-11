@@ -14,7 +14,7 @@ setuptools.setup(
                 'prompt_toolkit==3.0.32',
                 'Pygments==2.12.0',
                 'sentence_transformers==2.2.2',
-                'setuptools==62.6.0',
+                'setuptools==65.5.1',
                 'torch==1.12.1',
                 'tree_sitter==0.20.1',
                 'tree_sitter_builds==2022.8.27',
